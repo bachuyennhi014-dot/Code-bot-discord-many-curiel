@@ -1,0 +1,730 @@
+{
+  "users": {
+    "1555092795260145674_1402913586853974156": {
+      "user_id": "1402913586853974156",
+      "guild_id": "1555092795260145674",
+      "username": "helena19_05",
+      "tinh_khong_thach": 16874,
+      "manh_ky_uc": 0,
+      "diem_cong_hien": 150,
+      "realm": "Luyện Khí",
+      "stage": "Tầng 1",
+      "tu_vi": 600,
+      "current_hp": 25000,
+      "max_hp": 25000,
+      "total_battles": 0,
+      "wins": 0,
+      "losses": 0,
+      "thien_kiep": 0,
+      "pet": null,
+      "pet_level": 1,
+      "last_pet_reward": null,
+      "truong_sinh_active_battles": 0,
+      "inventory": {
+        "dan_duoc": {
+          "truong_sinh_dan": 0
+        },
+        "weapons": [],
+        "armor": [],
+        "charms": {
+          "bua_may_man": 0
+        }
+      },
+      "equipped_weapons": [],
+      "equipped_armor": [],
+      "hao_cam": {},
+      "manh_nhan_vat": {
+        "Richard": {
+          "C": 0,
+          "B": 1,
+          "A": 0,
+          "S": 0
+        },
+        "Seo Eun-kyul": {
+          "C": 0,
+          "B": 0,
+          "A": 1,
+          "S": 0
+        }
+      },
+      "the_nhan_vat": {},
+      "su_phu": null,
+      "last_interact_su_phu": {},
+      "skills": [
+        "Đạo Lực Chưởng"
+      ],
+      "daily_last": "2026-10-12T13:04:09.114Z",
+      "daily_streak": 1,
+      "trua_nam_count": 0,
+      "trua_nam_date": null,
+      "created_at": "2026-10-10T04:46:16.951Z",
+      "updated_at": "2026-10-13T13:14:14.025Z"
+    },
+    "1532944348105408663_1402913586853974156": {
+      "user_id": "1402913586853974156",
+      "guild_id": "1555092795260145674",
+      "username": "helena19_05",
+      "tinh_khong_thach": 16874,
+      "manh_ky_uc": 0,
+      "diem_cong_hien": 150,
+      "realm": "Luyện Khí",
+      "stage": "Tầng 1",
+      "tu_vi": 600,
+      "current_hp": 25000,
+      "max_hp": 25000,
+      "total_battles": 0,
+      "wins": 0,
+      "losses": 0,
+      "thien_kiep": 0,
+      "pet": null,
+      "pet_level": 1,
+      "last_pet_reward": null,
+      "truong_sinh_active_battles": 0,
+      "inventory": {
+        "dan_duoc": {
+          "truong_sinh_dan": 0
+        },
+        "weapons": [],
+        "armor": [],
+        "charms": {
+          "bua_may_man": 0
+        }
+      },
+      "equipped_weapons": [],
+      "equipped_armor": [],
+      "hao_cam": {},
+      "manh_nhan_vat": {
+        "Richard": {
+          "C": 0,
+          "B": 1,
+          "A": 0,
+          "S": 0
+        },
+        "Seo Eun-kyul": {
+          "C": 0,
+          "B": 0,
+          "A": 1,
+          "S": 0
+        }
+      },
+      "the_nhan_vat": {},
+      "su_phu": null,
+      "last_interact_su_phu": {},
+      "skills": [
+        "Đạo Lực Chưởng"
+      ],
+      "daily_last": "2026-10-12T13:04:09.114Z",
+      "daily_streak": 1,
+      "trua_nam_count": 0,
+      "trua_nam_date": null,
+      "created_at": "2026-10-10T04:46:16.951Z",
+      "updated_at": "2026-10-13T13:14:14.025Z"
+    },
+    "1555092795260145674_1514156842870243399": {
+      "user_id": "1514156842870243399",
+      "guild_id": "1555092795260145674",
+      "username": "yeumeonho",
+      "tinh_khong_thach": 9902451,
+      "manh_ky_uc": 10,
+      "diem_cong_hien": 0,
+      "realm": "Luyện Khí",
+      "stage": "Tầng 1",
+      "tu_vi": 490,
+      "current_hp": 25000,
+      "max_hp": 25000,
+      "total_battles": 0,
+      "wins": 0,
+      "losses": 0,
+      "thien_kiep": 0,
+      "pet": null,
+      "pet_level": 1,
+      "last_pet_reward": null,
+      "truong_sinh_active_battles": 0,
+      "inventory": {
+        "dan_duoc": {
+          "truong_sinh_dan": 0
+        },
+        "weapons": [],
+        "armor": [],
+        "charms": {
+          "bua_may_man": 0
+        }
+      },
+      "equipped_weapons": [],
+      "equipped_armor": [],
+      "hao_cam": {
+        "Uyên Minh Dạ": 10
+      },
+      "manh_nhan_vat": {},
+      "the_nhan_vat": {},
+      "su_phu": null,
+      "last_interact_su_phu": {},
+      "skills": [
+        "Đạo Lực Chưởng"
+      ],
+      "daily_last": null,
+      "daily_streak": 0,
+      "trua_nam_count": 0,
+      "trua_nam_date": null,
+      "created_at": "2026-10-11T03:46:31.815Z",
+      "updated_at": "2026-10-13T13:33:50.064Z"
+    },
+    "1552622833618649100_1514156842870243399": {
+      "user_id": "1514156842870243399",
+      "guild_id": "1555092795260145674",
+      "username": "yeumeonho",
+      "tinh_khong_thach": 9902451,
+      "manh_ky_uc": 10,
+      "diem_cong_hien": 0,
+      "realm": "Luyện Khí",
+      "stage": "Tầng 1",
+      "tu_vi": 490,
+      "current_hp": 25000,
+      "max_hp": 25000,
+      "total_battles": 0,
+      "wins": 0,
+      "losses": 0,
+      "thien_kiep": 0,
+      "pet": null,
+      "pet_level": 1,
+      "last_pet_reward": null,
+      "truong_sinh_active_battles": 0,
+      "inventory": {
+        "dan_duoc": {
+          "truong_sinh_dan": 0
+        },
+        "weapons": [],
+        "armor": [],
+        "charms": {
+          "bua_may_man": 0
+        }
+      },
+      "equipped_weapons": [],
+      "equipped_armor": [],
+      "hao_cam": {
+        "Uyên Minh Dạ": 10
+      },
+      "manh_nhan_vat": {},
+      "the_nhan_vat": {},
+      "su_phu": null,
+      "last_interact_su_phu": {},
+      "skills": [
+        "Đạo Lực Chưởng"
+      ],
+      "daily_last": null,
+      "daily_streak": 0,
+      "trua_nam_count": 0,
+      "trua_nam_date": null,
+      "created_at": "2026-10-11T03:46:31.815Z",
+      "updated_at": "2026-10-13T13:33:50.064Z"
+    },
+    "1555092795260145674_1250580493074825246": {
+      "user_id": "1250580493074825246",
+      "guild_id": "1555092795260145674",
+      "username": "aikiuu_neee",
+      "tinh_khong_thach": 500000,
+      "manh_ky_uc": 0,
+      "diem_cong_hien": 2550,
+      "realm": "Độ Kiếp",
+      "stage": "3/10",
+      "tu_vi": 78643200,
+      "current_hp": 265000,
+      "max_hp": 265000,
+      "total_battles": 0,
+      "wins": 0,
+      "losses": 0,
+      "thien_kiep": 3,
+      "pet": "Hồ Ly",
+      "pet_level": 1,
+      "last_pet_reward": null,
+      "truong_sinh_active_battles": 3,
+      "inventory": {
+        "dan_duoc": {
+          "truong_sinh_dan": 1
+        },
+        "weapons": [],
+        "armor": [],
+        "charms": {
+          "bua_may_man": 0
+        },
+        "gifts": {
+          "Nhẫn đôi": 1
+        },
+        "pets": {
+          "Hồ Ly": 2
+        }
+      },
+      "equipped_weapons": [],
+      "equipped_armor": [],
+      "hao_cam": {
+        "Sở Dạ Ly": 26
+      },
+      "manh_nhan_vat": {
+        "Tuyết Vô Ngân": {
+          "C": 0,
+          "B": 0,
+          "A": 0,
+          "S": 1
+        },
+        "Lucian Dante": {
+          "C": 0,
+          "B": 0,
+          "A": 1,
+          "S": 0
+        }
+      },
+      "the_nhan_vat": {},
+      "su_phu": "Sở Dạ Ly",
+      "last_interact_su_phu": {
+        "Sở Dạ Ly": "2026-10-13T09:56:27.375Z"
+      },
+      "skills": [
+        "Đạo Lực Chưởng"
+      ],
+      "daily_last": "2026-10-12T13:04:22.083Z",
+      "daily_streak": 1,
+      "trua_nam_count": 0,
+      "trua_nam_date": null,
+      "created_at": "2026-10-11T03:54:13.271Z",
+      "updated_at": "2026-10-22T07:06:23.960Z",
+      "su_phu_list": [
+        "Sở Dạ Ly"
+      ],
+      "pet_count": 2,
+      "pets": [
+        "Hồ Ly",
+        "Hồ Ly"
+      ]
+    },
+    "1555092795260145674_1497539163157954560": {
+      "user_id": "1497539163157954560",
+      "guild_id": "1555092795260145674",
+      "username": "manycuriel",
+      "tinh_khong_thach": 3359,
+      "manh_ky_uc": 0,
+      "diem_cong_hien": 50,
+      "realm": "Luyện Khí",
+      "stage": "Tầng 1",
+      "tu_vi": 840,
+      "current_hp": 25000,
+      "max_hp": 25000,
+      "total_battles": 0,
+      "wins": 0,
+      "losses": 0,
+      "thien_kiep": 0,
+      "pet": null,
+      "pet_level": 1,
+      "last_pet_reward": null,
+      "truong_sinh_active_battles": 0,
+      "inventory": {
+        "dan_duoc": {
+          "truong_sinh_dan": 0
+        },
+        "weapons": [],
+        "armor": [],
+        "charms": {
+          "bua_may_man": 0
+        }
+      },
+      "equipped_weapons": [],
+      "equipped_armor": [],
+      "hao_cam": {},
+      "manh_nhan_vat": {},
+      "the_nhan_vat": {},
+      "su_phu": null,
+      "last_interact_su_phu": {},
+      "skills": [
+        "Đạo Lực Chưởng"
+      ],
+      "daily_last": "2026-10-13T09:47:22.764Z",
+      "daily_streak": 1,
+      "trua_nam_count": 0,
+      "trua_nam_date": null,
+      "created_at": "2026-10-11T03:55:40.862Z",
+      "updated_at": "2026-10-13T12:31:58.283Z"
+    },
+    "1555092795260145674_928998461116928020": {
+      "user_id": "928998461116928020",
+      "guild_id": "1555092795260145674",
+      "username": "Tu Sĩ",
+      "tinh_khong_thach": 3551,
+      "manh_ky_uc": 0,
+      "diem_cong_hien": 0,
+      "realm": "Phàm Nhân",
+      "stage": "Phàm Nhân",
+      "tu_vi": 500,
+      "current_hp": 15000,
+      "max_hp": 15000,
+      "total_battles": 0,
+      "wins": 0,
+      "losses": 0,
+      "thien_kiep": 0,
+      "pet": null,
+      "pet_level": 1,
+      "last_pet_reward": null,
+      "truong_sinh_active_battles": 0,
+      "inventory": {
+        "dan_duoc": {
+          "truong_sinh_dan": 0
+        },
+        "weapons": [],
+        "armor": [],
+        "charms": {
+          "bua_may_man": 0
+        }
+      },
+      "equipped_weapons": [],
+      "equipped_armor": [],
+      "hao_cam": {},
+      "manh_nhan_vat": {},
+      "the_nhan_vat": {},
+      "su_phu": null,
+      "last_interact_su_phu": {},
+      "skills": [
+        "Đạo Lực Chưởng"
+      ],
+      "daily_last": null,
+      "daily_streak": 0,
+      "trua_nam_count": 0,
+      "trua_nam_date": null,
+      "created_at": "2026-10-13T09:49:27.138Z",
+      "updated_at": "2026-10-13T09:52:31.542Z"
+    },
+    "1497539163157954560": {
+      "user_id": "1497539163157954560",
+      "guild_id": "1555092795260145674",
+      "username": "manycuriel",
+      "tinh_khong_thach": 3359,
+      "manh_ky_uc": 0,
+      "diem_cong_hien": 50,
+      "realm": "Luyện Khí",
+      "stage": "Tầng 1",
+      "tu_vi": 840,
+      "current_hp": 25000,
+      "max_hp": 25000,
+      "total_battles": 0,
+      "wins": 0,
+      "losses": 0,
+      "thien_kiep": 0,
+      "pet": null,
+      "pet_level": 1,
+      "last_pet_reward": null,
+      "truong_sinh_active_battles": 0,
+      "inventory": {
+        "dan_duoc": {
+          "truong_sinh_dan": 0
+        },
+        "weapons": [],
+        "armor": [],
+        "charms": {
+          "bua_may_man": 0
+        }
+      },
+      "equipped_weapons": [],
+      "equipped_armor": [],
+      "hao_cam": {},
+      "manh_nhan_vat": {},
+      "the_nhan_vat": {},
+      "su_phu": null,
+      "last_interact_su_phu": {},
+      "skills": [
+        "Đạo Lực Chưởng"
+      ],
+      "daily_last": "2026-10-13T09:47:22.764Z",
+      "daily_streak": 1,
+      "trua_nam_count": 0,
+      "trua_nam_date": null,
+      "created_at": "2026-10-11T03:55:40.862Z",
+      "updated_at": "2026-10-13T12:31:58.283Z"
+    },
+    "1402913586853974156": {
+      "user_id": "1402913586853974156",
+      "guild_id": "1555092795260145674",
+      "username": "helena19_05",
+      "tinh_khong_thach": 16874,
+      "manh_ky_uc": 0,
+      "diem_cong_hien": 150,
+      "realm": "Luyện Khí",
+      "stage": "Tầng 1",
+      "tu_vi": 600,
+      "current_hp": 25000,
+      "max_hp": 25000,
+      "total_battles": 0,
+      "wins": 0,
+      "losses": 0,
+      "thien_kiep": 0,
+      "pet": null,
+      "pet_level": 1,
+      "last_pet_reward": null,
+      "truong_sinh_active_battles": 0,
+      "inventory": {
+        "dan_duoc": {
+          "truong_sinh_dan": 0
+        },
+        "weapons": [],
+        "armor": [],
+        "charms": {
+          "bua_may_man": 0
+        }
+      },
+      "equipped_weapons": [],
+      "equipped_armor": [],
+      "hao_cam": {},
+      "manh_nhan_vat": {
+        "Richard": {
+          "C": 0,
+          "B": 1,
+          "A": 0,
+          "S": 0
+        },
+        "Seo Eun-kyul": {
+          "C": 0,
+          "B": 0,
+          "A": 1,
+          "S": 0
+        }
+      },
+      "the_nhan_vat": {},
+      "su_phu": null,
+      "last_interact_su_phu": {},
+      "skills": [
+        "Đạo Lực Chưởng"
+      ],
+      "daily_last": "2026-10-12T13:04:09.114Z",
+      "daily_streak": 1,
+      "trua_nam_count": 0,
+      "trua_nam_date": null,
+      "created_at": "2026-10-10T04:46:16.951Z",
+      "updated_at": "2026-10-13T13:14:14.025Z"
+    },
+    "1250580493074825246": {
+      "user_id": "1250580493074825246",
+      "guild_id": "1555092795260145674",
+      "username": "aikiuu_neee",
+      "tinh_khong_thach": 500000,
+      "manh_ky_uc": 0,
+      "diem_cong_hien": 2550,
+      "realm": "Độ Kiếp",
+      "stage": "3/10",
+      "tu_vi": 78643200,
+      "current_hp": 265000,
+      "max_hp": 265000,
+      "total_battles": 0,
+      "wins": 0,
+      "losses": 0,
+      "thien_kiep": 3,
+      "pet": "Hồ Ly",
+      "pet_level": 1,
+      "last_pet_reward": null,
+      "truong_sinh_active_battles": 3,
+      "inventory": {
+        "dan_duoc": {
+          "truong_sinh_dan": 1
+        },
+        "weapons": [],
+        "armor": [],
+        "charms": {
+          "bua_may_man": 0
+        },
+        "gifts": {
+          "Nhẫn đôi": 1
+        },
+        "pets": {
+          "Hồ Ly": 2
+        }
+      },
+      "equipped_weapons": [],
+      "equipped_armor": [],
+      "hao_cam": {
+        "Sở Dạ Ly": 26
+      },
+      "manh_nhan_vat": {
+        "Tuyết Vô Ngân": {
+          "C": 0,
+          "B": 0,
+          "A": 0,
+          "S": 1
+        },
+        "Lucian Dante": {
+          "C": 0,
+          "B": 0,
+          "A": 1,
+          "S": 0
+        }
+      },
+      "the_nhan_vat": {},
+      "su_phu": "Sở Dạ Ly",
+      "last_interact_su_phu": {
+        "Sở Dạ Ly": "2026-10-13T09:56:27.375Z"
+      },
+      "skills": [
+        "Đạo Lực Chưởng"
+      ],
+      "daily_last": "2026-10-12T13:04:22.083Z",
+      "daily_streak": 1,
+      "trua_nam_count": 0,
+      "trua_nam_date": null,
+      "created_at": "2026-10-11T03:54:13.271Z",
+      "updated_at": "2026-10-22T07:06:23.960Z",
+      "su_phu_list": [
+        "Sở Dạ Ly"
+      ],
+      "pet_count": 2,
+      "pets": [
+        "Hồ Ly",
+        "Hồ Ly"
+      ]
+    },
+    "1514156842870243399": {
+      "user_id": "1514156842870243399",
+      "guild_id": "1555092795260145674",
+      "username": "yeumeonho",
+      "tinh_khong_thach": 9902451,
+      "manh_ky_uc": 10,
+      "diem_cong_hien": 0,
+      "realm": "Luyện Khí",
+      "stage": "Tầng 1",
+      "tu_vi": 490,
+      "current_hp": 25000,
+      "max_hp": 25000,
+      "total_battles": 0,
+      "wins": 0,
+      "losses": 0,
+      "thien_kiep": 0,
+      "pet": null,
+      "pet_level": 1,
+      "last_pet_reward": null,
+      "truong_sinh_active_battles": 0,
+      "inventory": {
+        "dan_duoc": {
+          "truong_sinh_dan": 0
+        },
+        "weapons": [],
+        "armor": [],
+        "charms": {
+          "bua_may_man": 0
+        }
+      },
+      "equipped_weapons": [],
+      "equipped_armor": [],
+      "hao_cam": {
+        "Uyên Minh Dạ": 10
+      },
+      "manh_nhan_vat": {},
+      "the_nhan_vat": {},
+      "su_phu": null,
+      "last_interact_su_phu": {},
+      "skills": [
+        "Đạo Lực Chưởng"
+      ],
+      "daily_last": null,
+      "daily_streak": 0,
+      "trua_nam_count": 0,
+      "trua_nam_date": null,
+      "created_at": "2026-10-11T03:46:31.815Z",
+      "updated_at": "2026-10-13T13:33:50.064Z"
+    }
+  },
+  "guilds": {
+    "1555092795260145674": {
+      "guild_id": "1555092795260145674",
+      "play_channel_id": "1555092797319544907",
+      "hidden_channel_id": "1559901024939151400",
+      "role_top1_id": null,
+      "role_tttl_id": null,
+      "season_end_time": null,
+      "updated_at": "2026-10-22T07:00:29.327Z",
+      "role_dai_de_tu": {},
+      "role_phu_hao_id": null,
+      "current_phu_hao_user_id": null
+    },
+    "1532944348105408663": {
+      "guild_id": "1532944348105408663",
+      "play_channel_id": null,
+      "hidden_channel_id": null,
+      "role_top1_id": null,
+      "role_tttl_id": null,
+      "season_end_time": null,
+      "updated_at": "2026-10-22T07:00:29.328Z",
+      "role_dai_de_tu": {},
+      "role_phu_hao_id": null,
+      "current_phu_hao_user_id": null
+    },
+    "1552622833618649100": {
+      "guild_id": "1552622833618649100",
+      "play_channel_id": null,
+      "hidden_channel_id": null,
+      "role_top1_id": null,
+      "role_tttl_id": null,
+      "season_end_time": null,
+      "updated_at": "2026-10-22T07:00:29.328Z",
+      "role_dai_de_tu": {},
+      "role_phu_hao_id": null,
+      "current_phu_hao_user_id": null
+    }
+  },
+  "staff": {
+    "1402913586853974156": {
+      "user_id": "1402913586853974156",
+      "username": "helena19_05",
+      "added_by": "1497539163157954560",
+      "added_at": "2026-10-13T09:31:56.328Z"
+    }
+  },
+  "quan_ly": {},
+  "bot_bans": [],
+  "violations": {},
+  "staff_gifts": {},
+  "events": {},
+  "transactions": [],
+  "custom_emojis": [
+    "<a:Eirene_b02:1558395144905035891>",
+    "<a:Keai_SvB_Heart:1558395138399539200>",
+    "<a:Keai_SvB_Heart:1558395141717237832>",
+    "<a:elys_bling7:1558395148264804452>",
+    "<a:hvl_:1558395151905460254>",
+    "<a:kireiBlueHearts:1556161469098238093>",
+    "<:kireiStarBlue:1556161474735374448>",
+    "<a:tim:1558395156342775849>",
+    "<a:sao7mau:1552252317376446585>",
+    "<a:012Blue_Heart3:1558087837029498921>",
+    "<a:012Blue_Mail:1558087826900389950>",
+    "<a:angelBlob3:1555974609747050678>",
+    "<a:ax_hearts3:1555974580093325324>",
+    "<a:blueheart:1558087803320016907>",
+    "<a:bluewings:1558087800262234162>",
+    "<a:elite:1558087797368168498>",
+    "<a:tim:1558087821170835581>",
+    "<a:z_pinkhearts:1556291379028820099>",
+    "<a:z_paw:1556291363429945394>",
+    "<a:005_blue_heart:1552625798869946408>",
+    "<a:005_blue_jellyfish:1552625802296959086>",
+    "<a:005_bubbles1:1552625804356362281>",
+    "<a:005_bubbles3:1552625793753157704>",
+    "<a:005_heartbubbles:1552625791148232814>",
+    "<a:emoji_52:1552664943285768204>",
+    "<a:kawaiiStarBlue:1552638878954029056>",
+    "<a:009Cinnamoroll_IceCream:1533115012212588695>",
+    "<a:009Cinnamoroll_Plane:1533115234024165410>",
+    "<a:cinnanhay:1551903794932228177>",
+    "<a:whiteWZrainbow:1549050556318744658>",
+    "<a:emoji_52:1548665937002107000>",
+    "<a:blue_butterfly:1548624087616856134>",
+    "<a:laplanh:1549295668978520094>",
+    "<a:douceur_blue043:1549779332329635961>"
+  ],
+  "hidden_products": [],
+  "lixi_sessions": {},
+  "character_images": {
+    "Sở Dạ Ly": {
+      "profile": "https://cdn.discordapp.com/attachments/1522913495497052200/1558051617859698698/a2cebac6-e5a5-470d-a9a8-657c62a4a75d.png?ex=6acdfca4&is=6accab24&hm=9f33f8d05760ddc82f69a3f83eed083877c6859bd79fa6338ae04dd491a3ea30&"
+    }
+  },
+  "boss_chung": {},
+  "boss_don": {},
+  "staff_phatqua_pool": {},
+  "tim_may_sessions": {},
+  "sects": {},
+  "corrupted_leaders": {},
+  "sect_realm_sessions": {}
+}

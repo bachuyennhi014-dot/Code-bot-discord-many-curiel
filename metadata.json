@@ -1,0 +1,6 @@
+{
+  "name": "Discord Real Bot Framework",
+  "description": "Hệ thống Discord Bot v14 hoàn chỉnh với Slash Commands, hệ thống phân quyền 4 cấp (Owner, Manager, Staff, Player), Database lưu trữ thật, và công cụ quản lý bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
